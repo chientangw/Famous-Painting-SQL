@@ -2,4 +2,4 @@
 A quick demo of SQL for data manipulations
 
 
-Data source: https://www.kaggle.com/datasets/mexwell/famous-paintings
+Data source: [Kaggle - Famous Painting](https://www.kaggle.com/datasets/mexwell/famous-paintings) 
